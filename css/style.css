@@ -1,0 +1,52 @@
+#foto-perfil{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    
+}
+.subtitulos{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #C4C4C4;
+    color: #005677;
+}
+.listas{
+    list-style:none;
+}
+.titulo-principal{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+.li-negrita-cursiva{
+    font-weight: bold;
+    font-style: italic;
+}
+.pie-de-pagina{
+    background-color:#005677;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.instagram{position: absolute;
+width: 20px;
+height: 20px;
+left: 772px;
+top: 996px;
+
+}
+.logo-footer{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    
+    
+    
+    
+}
